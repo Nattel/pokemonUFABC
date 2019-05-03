@@ -1,0 +1,19 @@
+Frente >
+	Parado   > 1, 1, 15, 20
+	Direita  > 1, 21, 15, 20
+	Esquerda > 1, 41, 15, 20
+
+Costas >
+	Parado   > 19, 1, 15, 20
+	Direita  > 19, 21, 15, 20
+	Esquerda > 19, 41, 15, 20
+	
+Direita >
+	Parado   > 35, 1, 15, 20
+	Direita  > 35, 21, 15, 20
+	Esquerda > 35, 41, 15, 20
+	
+Esquerda
+	Parado   > 52, 1, 15, 20
+	Direita  > 52, 21, 15, 20
+	Esquerda > 52, 41, 15, 20

@@ -1,0 +1,20 @@
+HERO:
+	BACK:
+		parado    > 78, 9, 15, 20
+		andandoD  > 78, 34, 15, 20
+		andandoE  > 78, 58, 15, 20
+	FRONT:
+		parado    > 54, 9, 15, 20
+		andandoD  > 54, 34, 15, 20
+		andandoE  > 54, 58, 15, 20
+	LEFT:
+		parado    > 221, 58, 15, 20
+		andandoD  > 221, 82, 15, 20
+		andandoE  > 221, 35, 15, 20
+	RIGHT:
+		parado    > 5, 10, 15, 20,
+		andandoD  > 29, 10, 15, 20
+		andandoE  > 29, 58, 15, 20
+
+
+		
