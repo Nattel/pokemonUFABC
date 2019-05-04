@@ -39,6 +39,6 @@ A ser feito:
   Inventário
   Tela de início
   Tela de fim
-  Integração com os puzzles
+  Integração com os puzzles (apenas um deles está iniciado, faltam os assets e alguns detalhes)
   Outros inputs 
   
