@@ -1,0 +1,44 @@
+Assets:
+  Os assets foram feitos baseados em imagens comuns de Pokémon
+  alguns dos originais presentes na pasta "assets/arquivosUteis"
+  As únicas que foram 100% cópias são os arbustos e as árvores
+  As outras tiveram todas um certo grau de edição (feita no Gimp).
+  
+O framework utilizado foi este: https://dcc.ufrj.br/~fabiom/java/framework.zip
+
+As principais partes efetivamente editadas por mim foram as classes:
+  Objetos
+  Personagem
+  Portal
+  Pokemon
+  Todas feitas a partir do zero.
+  
+A ser melhorado:
+  Portal
+  Entrada e saída do estacionamento
+  algumas partes das imagens como:
+    O corredor do bloco B
+    A pracinha do RU
+    A frente do bloco B
+    
+A ser consertado:
+  Personagens
+  Som
+    
+A ser feito:
+  Os prédios:
+    RU
+    Ginásio
+    Biblioteca
+    Quadras
+  Outros personagens
+  Interações:
+    Ambiente
+    Personagens
+    Objetos
+  Inventário
+  Tela de início
+  Tela de fim
+  Integração com os puzzles
+  Outros inputs 
+  
